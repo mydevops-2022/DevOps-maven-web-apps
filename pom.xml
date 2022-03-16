@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://99.79.37.97:8081/repository/NYCFX/</url>
+	      <url>http://99.79.37.97:8081/repository/BMOFX-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://99.79.37.97:8081/repository/NYCFX-snapshot/</url>
+	      <url>http://99.79.37.97:8081/repository/BMOFX-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
