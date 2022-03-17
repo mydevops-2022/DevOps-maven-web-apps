@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://99.79.37.97:8081/repository/BMOFX-releases/</url>
+	      <url>http://3.98.128.138:8081/repository/CBN-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://99.79.37.97:8081/repository/BMOFX-snapshot/</url>
+	      <url>http://3.98.128.138:8081/repository/CBN-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
