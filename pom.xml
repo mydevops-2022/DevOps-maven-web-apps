@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.96.67.77:8081/repository/ABC-release/</url>
+	      <url>http://35.182.21.234:8081/repository/Devstage-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.96.67.77:8081/repository/ABCsnapshot/</url>
+	      <url>http://35.182.21.234:8081/repository/Devsatge-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
